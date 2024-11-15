@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">UTS Dwi</string>
+
+    <string-array name="nama_tempat">
+        <item>Pulau Komodo</item>
+        <item>Candi Borobudur</item>
+        <item>Danau Toba</item>
+        <item>Pantai Kuta</item>
+        <item>Taman Laut Bunaken</item>
+        <item>Raja Ampat</item>
+        <item>Gunung Bromo</item>
+        <item>Tana Toraja</item>
+        <item>Kawah Ijen</item>
+        <item>Kepulauan Seribu</item>
+    </string-array>
+
+    <string-array name="deskripsi_singkat">
+        <item>Habitat komodo dengan pemandangan savana dan laut biru yang indah.</item>
+        <item>Candi Buddha terbesar di dunia dengan relief sejarah dan budaya.</item>
+        <item>Danau vulkanik besar dengan Pulau Samosir di tengahnya.</item>
+        <item>Pantai populer di Bali untuk berselancar dan menikmati sunset.</item>
+        <item>Lokasi snorkeling dan diving dengan terumbu karang indah.</item>
+        <item>Surga bawah laut dengan keanekaragaman biota laut.</item>
+        <item>Gunung berapi aktif dengan pemandangan sunrise yang spektakuler.</item>
+        <item>Daerah dengan budaya unik dan rumah adat Tongkonan.</item>
+        <item>Gunung berapi dengan fenomena api biru yang langka.</item>
+        <item>Rangkaian pulau untuk liburan pantai dan snorkeling.</item>
+    </string-array>
+
+    <string-array name="lokasi">
+        <item>Nusa Tenggara Timur</item>
+        <item>Magelang, Jawa Tengah</item>
+        <item>Sumatera Utara</item>
+        <item>Kuta, Bali</item>
+        <item>Manado, Sulawesi Utara</item>
+        <item>Papua Barat</item>
+        <item>Jawa Timur</item>
+        <item>Sulawesi Selatan</item>
+        <item>Banyuwangi, Jawa Timur</item>
+        <item>Jakarta</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Pulau Komodo adalah destinasi wisata ikonis yang menawarkan perpaduan unik antara petualangan, keindahan alam, dan keajaiban satwa liar. Pulau ini terletak di kawasan Taman Nasional Komodo, yang termasuk dalam Situs Warisan Dunia UNESCO dan merupakan salah satu dari Tujuh Keajaiban Alam Dunia Baru. Daya tarik utamanya tentu adalah komodo, kadal raksasa prasejarah yang hanya ditemukan di pulau ini dan beberapa pulau sekitarnya. Komodo adalah predator yang kuat, dengan panjang tubuh yang bisa mencapai tiga meter. Pengalaman mengamati komodo di habitat aslinya, di bawah pengawasan pemandu berlisensi, adalah momen yang tak terlupakan bagi pengunjung.
+Namun, pesona Pulau Komodo tidak hanya terbatas pada satwa ikonik ini. Pulau ini memiliki lanskap yang dramatis, dengan bukit-bukit savana yang hijau atau kecoklatan tergantung musim, serta laut biru yang jernih yang mengelilinginya. Perairan di sekitar Pulau Komodo menawarkan keindahan bawah laut yang luar biasa, menjadikannya surga bagi para penyelam dan snorkeler. Terumbu karang di sini adalah rumah bagi ratusan spesies ikan, penyu laut, serta biota laut lainnya. Salah satu tempat menyelam paling populer adalah Batu Bolong, yang memiliki dinding karang curam dengan kehidupan laut yang sangat beragam.
+Di bagian selatan pulau, terdapat Pantai Merah Muda atau "Pink Beach," pantai langka dengan pasir berwarna merah muda yang tercipta dari serpihan koral merah. Pantai ini menjadi spot favorit untuk bersantai dan menikmati suasana tropis yang tenang, serta snorkeling di sekitar pantai dengan air yang sangat jernih. Dari atas bukit, wisatawan bisa menyaksikan pemandangan menakjubkan dari garis pantai dan laut yang berpadu dengan bukit-bukit hijau, menciptakan panorama alam yang memukau.
+Pulau Komodo juga memiliki jalur-jalur trekking bagi mereka yang suka berjalan kaki dan ingin menjelajahi lebih jauh. Berbagai jalur pendakian menawarkan pemandangan spektakuler, terutama di pagi dan sore hari ketika matahari terbit atau terbenam, memberikan cahaya hangat yang memperindah lanskap. Aktivitas trekking biasanya juga menjadi cara terbaik untuk melihat komodo dari jarak aman sekaligus menikmati keindahan alam pulau.
+Pulau ini adalah tempat sempurna bagi pecinta petualangan, fotografi, dan siapa saja yang mencari pengalaman luar biasa di alam bebas. Gabungan satwa unik, pantai eksotis, dan keindahan alam membuat Pulau Komodo menjadi destinasi yang wajib dikunjungi bagi siapa saja yang berkunjung ke Indonesia.</item>
+        <item>Candi Borobudur merupakan salah satu peninggalan sejarah terbesar di Indonesia dan candi Buddha terbesar di dunia. Dibangun pada abad ke-8, candi ini memiliki 2.672 panel relief dan 504 arca Buddha, yang menjadikannya sebuah mahakarya arsitektur yang penuh makna filosofis. Borobudur telah masuk dalam daftar warisan dunia UNESCO dan menjadi destinasi populer bagi wisatawan domestik dan mancanegara.
+Terletak di antara perbukitan dan sawah, Candi Borobudur dikelilingi oleh pemandangan alam yang menawan. Saat pagi hari, pemandangan sunrise dari puncak candi adalah salah satu momen yang dinantikan para pengunjung. Dari puncak, terlihat kabut pagi menyelimuti candi, menciptakan suasana magis yang menakjubkan.</item>
+        <item>Danau Toba adalah danau vulkanik terbesar di Asia Tenggara dan salah satu yang terdalam di dunia. Danau ini terbentuk akibat letusan gunung api raksasa sekitar 75.000 tahun yang lalu, yang juga menyebabkan terbentuknya Pulau Samosir di tengahnya. Samosir memiliki budaya yang kuat dan khas dari suku Batak, di mana wisatawan bisa mengunjungi desa-desa tradisional serta situs budaya setempat.
+Selain pemandangan danau yang luas dan tenang, kawasan ini juga menyuguhkan keindahan perbukitan dan suasana yang sejuk. Wisatawan sering mengunjungi Danau Toba untuk bersantai, berperahu mengelilingi danau, atau menjelajahi Pulau Samosir, yang memiliki objek wisata seperti museum dan makam raja-raja Batak.</item>
+        <item>Pantai Kuta di Bali adalah destinasi pantai yang sangat populer di kalangan wisatawan mancanegara. Dikenal karena ombaknya yang ideal untuk berselancar, pantai ini menjadi tempat favorit bagi peselancar pemula hingga profesional. Selain berselancar, wisatawan juga dapat menikmati pemandangan matahari terbenam yang memukau di sore hari, yang sering dianggap sebagai salah satu sunset terbaik di Bali.
+Pantai ini dikelilingi oleh berbagai fasilitas, seperti restoran, toko, bar, dan hotel, yang membuat Kuta menjadi kawasan yang ramai dan penuh kehidupan, terutama di malam hari. Pantai Kuta adalah tempat yang sempurna untuk merasakan suasana Bali yang dinamis dan modern, dengan pemandangan pantai yang tak terlupakan.</item>
+        <item>Taman Laut Bunaken adalah destinasi utama untuk diving dan snorkeling, terkenal dengan terumbu karang yang indah serta keanekaragaman biota laut. Taman laut ini memiliki sekitar 390 spesies terumbu karang dan berbagai jenis ikan, yang menjadikannya salah satu spot terbaik untuk penggemar kehidupan bawah laut.
+Dengan visibilitas air yang tinggi, penyelam dapat menyaksikan dengan jelas keindahan karang, ikan warna-warni, penyu, serta berbagai biota laut unik lainnya. Bunaken juga menawarkan kursus diving bagi pemula, sehingga semua kalangan dapat menikmati keindahan bawah laut yang spektakuler ini.</item>
+        <item>Raja Ampat di Papua Barat adalah salah satu destinasi snorkeling dan diving terbaik di dunia, dengan perairan yang kaya akan keanekaragaman hayati laut. Dikenal dengan julukan "surga bawah laut," Raja Ampat terdiri dari gugusan pulau-pulau kecil dengan pemandangan yang sangat memukau.
+Di sini, wisatawan dapat melihat berbagai spesies ikan, hiu karang, penyu, dan terumbu karang yang sangat sehat. Selain keindahan bawah laut, Raja Ampat juga menawarkan pemandangan alam yang indah, dengan pantai pasir putih, laguna biru, serta hutan mangrove. Trekking ke puncak pulau-pulau kecil memberikan panorama yang spektakuler.</item>
+        <item>Gunung Bromo adalah gunung berapi aktif yang terkenal dengan pemandangan matahari terbit yang dramatis dan lautan pasir yang luas. Wisatawan biasanya melakukan perjalanan dini hari untuk melihat sunrise dari puncak Bromo, yang menawarkan pemandangan luar biasa dengan latar pegunungan dan kabut yang menyelimuti lembah.
+Selain pemandangan indah, wisatawan juga dapat menjelajahi lautan pasir menggunakan jeep atau menunggang kuda menuju kawah. Suasana yang sepi dan magis menjadikan Gunung Bromo sebagai salah satu tempat wisata yang sangat diminati di Jawa Timur.</item>
+        <item>Tana Toraja terkenal karena budaya dan tradisi uniknya, terutama upacara pemakaman yang dikenal rumit dan sakral. Upacara ini melibatkan prosesi panjang dan ritual khusus, termasuk rumah adat Tongkonan yang memiliki arsitektur khas berbentuk seperti tanduk kerbau.
+Selain upacara adat, Tana Toraja juga menawarkan pemandangan alam yang indah, dengan perbukitan, sawah terasering, serta hutan yang subur. Ini adalah tempat yang sempurna bagi wisatawan yang ingin mempelajari budaya lokal sambil menikmati suasana pedesaan yang tenang.</item>
+        <item>Kawah Ijen adalah destinasi favorit bagi para pendaki dan fotografer karena fenomena alamnya yang unik berupa api biru yang muncul dari kawah pada dini hari. Api biru ini tercipta dari gas belerang yang terbakar, memberikan pemandangan yang langka dan eksotis.
+Selain fenomena api biru, Ijen juga memiliki danau asam berwarna hijau toska di puncaknya. Wisatawan yang mendaki ke puncak Ijen dapat melihat aktivitas penambangan belerang oleh penduduk setempat, yang juga menambah pengalaman menarik selama perjalanan.</item>
+        <item>Kepulauan Seribu adalah gugusan pulau-pulau kecil yang tersebar di utara Jakarta dan menjadi destinasi populer untuk berlibur, terutama bagi penduduk Jakarta. Dengan pantai berpasir putih, air laut yang jernih, dan keanekaragaman biota laut, pulau-pulau ini cocok untuk snorkeling, diving, atau sekadar bersantai di pantai.
+Wisatawan juga bisa menikmati berbagai kegiatan seperti berkemah, memancing, atau berkeliling dengan perahu. Setiap pulau memiliki karakteristik dan daya tarik sendiri, seperti Pulau Pramuka yang terkenal untuk snorkeling, atau Pulau Macan yang menawarkan pengalaman resort ramah lingkungan.</item>
+    </string-array>
+
+
+
+</resources>
+
+
